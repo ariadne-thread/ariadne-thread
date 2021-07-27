@@ -1,9 +1,10 @@
 
-<a align="right"> <img src="https://komarev.com/ghpvc/?username=ariadne-thread&label=Profile%20views&color=e89cbe&style=flat" alt="ariadne-thread" /> </a>
+<a align="right"> <img src="https://komarev.com/ghpvc/?username=ariadne-thread&label=Profile%20views&color=e28da7&style=flat" alt="ariadne-thread" /> </a>
 
 ### Hi! I'am Camila Cestari Cerreti 
 Ariadne Thread is an allegory for the Greek myth of Theseus, the muse who freed him from the maze, meaning the logic used to help solve a complex problem.
 
+<div>
   <a href="https://github.com/ariadne-thread">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ariadne-thread&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadne-thread&layout=compact&langs_count=7&theme=dracula"/>
