@@ -4,8 +4,6 @@
 ### Hello World! I'am Camila Cestari Cerreti 👋
 *Ariadne Thread* is an allegory from the Greek myth of Theseus, the muse who freed him from the maze, meaning the logic used to help solve a complex problem.
 
-##
-
 <div>
   <a href="https://github.com/ariadne-thread">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ariadne-thread&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,4 +25,7 @@
   <a href = "mailto:camilacescer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5571997023931" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    <a href="https://gitlab.com/ariadne-thread" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+  <a href="https://beacons.page/ariadnethreadd" target="_blank"><img height="30" width="90"  src="https://influencermarketinghub.com/wp-content/uploads/2021/05/grsg.png" target="_blank"></a> 
 </div>
+  
+  
