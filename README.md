@@ -2,7 +2,7 @@
 <a align="right"> <img src="https://komarev.com/ghpvc/?username=ariadne-thread&label=Profile%20views&color=e28da7&style=flat" alt="ariadne-thread" /> </a>
 
 ### Hello World! I'am Camila Cestari Cerreti 👋
-*Ariadne Thread* is an allegory from the Greek myth of Theseus, the muse who freed him from the maze, meaning the logic used to help solve a complex problem.
+*Ariadne Thread* is an allegory from the Greek myth of Theseus, the muse who freed him out of the maze, meaning the logic used to give a way to solve a complex problem.
 
 <div>
   <a href="https://github.com/ariadne-thread">
