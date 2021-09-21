@@ -25,7 +25,7 @@
   <a href = "mailto:camilacescer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5571997023931" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    <a href="https://gitlab.com/ariadne-thread" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-  <a href="https://beacons.page/ariadnethread" target="_blank"><img height="25" width="90"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_NnAIiXkJF8-BZGM2K4onMRzbcWlD90TJNYYCPqSOzcRs9XIw6V4YmfMTI69HY9b0mg&usqp=CAU" target="_blank"></a> 
+  <a href="https://beacons.ai/ariadne_thread" target="_blank"><img height="25" width="90"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_NnAIiXkJF8-BZGM2K4onMRzbcWlD90TJNYYCPqSOzcRs9XIw6V4YmfMTI69HY9b0mg&usqp=CAU" target="_blank"></a> 
   <a href="https://drive.google.com/file/d/1Q_GqdM0nOLOvyy8C1ejdBipYRFKfLJKd/view?usp=sharing" target="_blank"><img height="32" width="140"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-gq7svg8QCACptRUjnd4eik6XcoctV68_Tw&usqp=CAU" target="_blank"></a> 
 </div>
   
