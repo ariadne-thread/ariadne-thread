@@ -11,11 +11,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="AriadneThread-Laravel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+  <img align="center" alt="AriadneThread-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AriadneThread-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="AriadneThread-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AriadneThread-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AriadneThread-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="AriadneThread-Laravel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">  
   <img align="right" alt="AriadneThread" height="250" width="200" src="https://64.media.tumblr.com/bd622276e5f3d5c1b8f68a90def8aece/0c5116e04650f6e8-cc/s400x600/556807ca274ef408fc6e41fd66854ee2e4683e4c.gifv">
 </div>
   
