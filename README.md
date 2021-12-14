@@ -18,7 +18,7 @@ Eager to learn new technologies and experiences, to use technology to scale and 
   <img align="center" alt="AriadneThread-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AriadneThread-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AriadneThread-Laravel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">  
-  <img align="right" alt="AriadneThread" height="230" width="180" src="https://64.media.tumblr.com/bd622276e5f3d5c1b8f68a90def8aece/0c5116e04650f6e8-cc/s400x600/556807ca274ef408fc6e41fd66854ee2e4683e4c.gifv">
+  <img align="right" alt="AriadneThread" height="270" width="220" src="https://64.media.tumblr.com/bd622276e5f3d5c1b8f68a90def8aece/0c5116e04650f6e8-cc/s400x600/556807ca274ef408fc6e41fd66854ee2e4683e4c.gifv">
   <p/>
   <p/>
   <img align="center" alt="AriadneThread-AI" height="70" width="70" src="https://consultabd.files.wordpress.com/2021/05/ai900_00.png?w=600" href= https://www.credly.com/badges/bba3b8dd-d598-4b25-a3b5-198ee773f6f2/public_url>
