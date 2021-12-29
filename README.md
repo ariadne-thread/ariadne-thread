@@ -21,6 +21,7 @@ Eager to learn new technologies and experiences, creating trends in the software
   <img align="right" alt="AriadneThread" height="270" width="220" src="https://64.media.tumblr.com/bd622276e5f3d5c1b8f68a90def8aece/0c5116e04650f6e8-cc/s400x600/556807ca274ef408fc6e41fd66854ee2e4683e4c.gifv">
   <p/>
   <p/>
+   <img align="center" alt="AriadneThread-AZ" height="70" width="70" src="https://curryncode.files.wordpress.com/2020/11/fundamentalbadge-e1605387013369.png" href= https://www.credly.com/badges/12d5a78e-01df-4c43-b865-6d6436de5f6b?fbclid=IwAR0_MD4eM47uDe5EQLqgYRi1R9EcHPNKrMl-NDkDbH-_P8w5_uvBpSWWd-0>
   <img align="center" alt="AriadneThread-AI" height="70" width="70" src="https://consultabd.files.wordpress.com/2021/05/ai900_00.png?w=600" href= https://www.credly.com/badges/bba3b8dd-d598-4b25-a3b5-198ee773f6f2/public_url>
 </div>
   
