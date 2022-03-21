@@ -23,7 +23,7 @@ Eager to learn new technologies and experiences, creating trends in the big data
   <p/>
   <a href="https://www.credly.com/badges/12d5a78e-01df-4c43-b865-6d6436de5f6b?fbclid" target="_blank"><img align="center" alt="AriadneThread-AZ" height="70" width="70" src="https://curryncode.files.wordpress.com/2020/11/fundamentalbadge-e1605387013369.png"></a> 
   <a href="https://www.credly.com/badges/bba3b8dd-d598-4b25-a3b5-198ee773f6f2/public_url" target="_blank"><img align="center" alt="AriadneThread-AI" height="70" width="70" src="https://consultabd.files.wordpress.com/2021/05/ai900_00.png?w=600"></a> 
-  <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48340744"_blank"><img align="center" alt="AriadneThread-AI" height="70" width="70" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48340744"></a> 
+  <a   src="https://credentials.databricks.com/embed/3c17233a-1d89-4568-a7f2-49fba23a1507"_blank"><img align="center" alt="AriadneThread-AI" height="70" width="70" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48340744"></a> 
 </div>
   
   ##
