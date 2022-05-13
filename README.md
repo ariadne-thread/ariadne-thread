@@ -21,7 +21,8 @@ Eager to learn new technologies and experiences, creating trends in the data ind
   <p/>
   <a href="https://www.credly.com/badges/12d5a78e-01df-4c43-b865-6d6436de5f6b?fbclid" target="_blank"><img align="center" alt="AriadneThread-AZ" height="70" width="70" src="https://curryncode.files.wordpress.com/2020/11/fundamentalbadge-e1605387013369.png"></a> 
   <a href="https://www.credly.com/badges/bba3b8dd-d598-4b25-a3b5-198ee773f6f2/public_url" target="_blank"><img align="center" alt="AriadneThread-AI" height="70" width="70" src="https://consultabd.files.wordpress.com/2021/05/ai900_00.png?w=600"></a> 
-  <a href="https://credentials.databricks.com/3c17233a-1d89-4568-a7f2-49fba23a1507"_blank"><img align="center" alt="AriadneThread-AI" height="80" width="80" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48340744"></a> 
+  <a href="https://credentials.databricks.com/3c17233a-1d89-4568-a7f2-49fba23a1507"_blank"><img align="center" alt="AriadneThread-DTBCKLH" height="80" width="80" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48340744"></a>
+   <a href="https://credentials.databricks.com/2d2d4fb2-229f-4dda-a3eb-1d0e9dd25afa"_blank"><img align="center" alt="AriadneThread-DTBCKSQL" height="80" width="80" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51158181"></a> 
 </div>
   
   ##
