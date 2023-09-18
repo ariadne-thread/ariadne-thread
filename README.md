@@ -2,7 +2,7 @@
 <a align="right"> <img src="https://komarev.com/ghpvc/?username=ariadne-thread&label=Profile%20views&color=e28da7&style=flat" alt="ariadne-thread" /> </a>
 
 ### Hello World! I'am Camila Cestari Cerreti 👋
-*Ariadne Thread* is an allegory from the Greek myth of Theseus, the muse who freed him out of the maze, meaning the logic and the right tools used to give a way to solve a complex problem.
+*Ariadne Thread* is an allegory from the greek myth of Theseus, the muse who freed him out of the maze, meaning the logic and the right tools used to give a way to solve a complex problem.
 
 Eager to learn new technologies and experiences, create trends in the big data industry, and use technology to scale and improve data analytics processes. 
 
