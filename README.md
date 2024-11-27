@@ -30,8 +30,6 @@ Eager to learn new technologies and experiences, chase trends in the data&AI ind
  
 <div> 
   <a href="https://www.linkedin.com/in/camilacc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:camilacescer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5571997023931" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    <a href="https://gitlab.com/ariadne-thread" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
   <a href="https://beacons.ai/ariadne_thread" target="_blank"><img height="25" width="90"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_NnAIiXkJF8-BZGM2K4onMRzbcWlD90TJNYYCPqSOzcRs9XIw6V4YmfMTI69HY9b0mg&usqp=CAU" target="_blank"></a> 
   <a href="https://drive.google.com/file/d/1XIyPUK9oLdPgic7UQt9_JXyStWIO3H3a/view?usp=sharing" target="_blank"><img height="26" width="120"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-gq7svg8QCACptRUjnd4eik6XcoctV68_Tw&usqp=CAU" target="_blank"></a> 
