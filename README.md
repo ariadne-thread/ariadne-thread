@@ -4,7 +4,7 @@
 ### Hello World! I'am Camila Cestari Cerreti 👋
 *Ariadne Thread* is an allegory from the greek myth of Theseus, the muse who freed him out of the maze, meaning the logic and the right tools used to give a way to solve a complex problem.
 
-Eager to learn new technologies and experiences, create trends in the big data industry, and use technology to scale and improve data analytics processes. 
+Eager to learn new technologies and experiences, chase trends in the data&AI industry, and use technology to scale and improve big data processes. 
 
 <div>
   <a href="https://github.com/ariadne-thread">
